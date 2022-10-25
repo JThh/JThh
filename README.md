@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on computational social science.
+- 🌱 I’m currently learning openmpi and cuda programming.
+- 👯 I’m looking to collaborate on recommendation systems.
+- 📫 How to reach me: [www.jiatong-han.com](www.jiatong-han.com)
+- ⚡ Fun fact: I am an aspired music composer and singer!
+
 <!--
 **JThh/JThh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
