@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on _computational social science_.
-- 🌱 I’m currently learning _openmpi_ and _cuda_ programming.
-- 👯 I’m looking to collaborate on _recommendation systems_.
-- 📫 How to reach me: [www.jiatong-han.com](www.jiatong-han.com)
+- 🔭 Working on _computational social science_.
+- 📫 How to reach me: [www.jiatong-han.com](http://www.jiatong-han.com)
 - ⚡ Fun fact: I am an aspired music composer and singer!
 
 <!--
