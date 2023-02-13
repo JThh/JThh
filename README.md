@@ -2,7 +2,7 @@
 
 - 🔭 Working on _computational social science_.
 - 📫 How to reach me: [www.jiatong-han.com](http://www.jiatong-han.com)
-- ⚡ Fun fact: I am an aspired music composer and singer!
+- ⚡ Fun fact: I am an amateur music composer and singer!
 
 <!--
 **JThh/JThh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
