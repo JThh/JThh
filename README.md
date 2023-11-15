@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi👋 I am Jiatong
 
-- 🔭 Working on _computational social science_.
-- 📫 How to reach me: [www.jiatong-han.com](http://www.jiatong-han.com)
-- ⚡ Fun fact: I am an amateur music composer and singer!
+- I am currently working on the intersection of HPC and AI, with specific focuses on concurrent programming and graph representation learning.
+- I graduated from NUS with Highest Distinction, and now I am studying at Oxford for my Master's degree.
+- 📫 How to reach me: [https://www.linkedin.com/in/jiatong-han-/](https://www.linkedin.com/in/jiatong-han-/)
 
 <!--
 **JThh/JThh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
