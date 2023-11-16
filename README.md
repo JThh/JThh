@@ -2,7 +2,7 @@
 
 - I am currently working on the intersection of HPC and AI, with specific focuses on concurrent programming and graph representation learning.
 - I graduated from NUS with Highest Distinction, and now I am studying at Oxford for my Master's degree.
-- 📫 How to reach me: [https://www.linkedin.com/in/jiatong-han-/](https://www.linkedin.com/in/jiatong-han-/)
+- Core-developer of the Fast & Fair platform: https://fair-alloc.streamlit.app/
 
 <!--
 **JThh/JThh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
