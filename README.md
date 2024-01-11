@@ -2,7 +2,8 @@
 
 - I am currently working on the intersection of HPC and AI, with specific focuses on concurrent programming and graph representation learning.
 - I graduated from NUS with Highest Distinction, and now I am studying at Oxford for my Master's degree.
-- Core-developer of the Fast & Fair platform: https://fair-alloc.streamlit.app/
+- Fast & Fair platform: https://fair-alloc.streamlit.app/
+- Recent talk at WANT@NeurIPS: https://youtu.be/MDLfNrj3fig 
 
 <!--
 **JThh/JThh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
