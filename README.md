@@ -1,7 +1,7 @@
 ### Hi👋 I am Jiatong
 
 - I am currently working on the intersection of HPC and AI, with specific focuses on concurrent programming and graph representation learning.
-- I graduated from NUS with Highest Distinction, and now I am studying at Oxford for my Master's degree.
+- I graduated from Oxford with a master's degree. I did my undergraduate at NUS.
 - Fast & Fair platform: https://fair-alloc.streamlit.app/
 - Recent talk at WANT@NeurIPS: https://youtu.be/MDLfNrj3fig 
 
